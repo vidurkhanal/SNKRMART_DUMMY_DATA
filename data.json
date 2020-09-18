@@ -1,7 +1,4 @@
 {
-  "healthcheck": {
-    "message": "OK"
-  },
   "sneakers": [
     {
       "box_condition": "good_condition",
